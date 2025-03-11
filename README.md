@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
 <p align="center">
-  <img src="https://imgur.com/a/2HRq7jz ">
+  <img src="https://imgur.com/5ItCqAX">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
